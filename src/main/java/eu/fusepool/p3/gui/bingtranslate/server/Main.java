@@ -1,4 +1,4 @@
-package eu.fusepool.p3.gui.literalextraction.server;
+package eu.fusepool.p3.gui.bingtranslate.server;
 
 import org.eclipse.jetty.server.Server;
 import org.eclipse.jetty.webapp.WebAppContext;

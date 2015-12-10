@@ -44,7 +44,7 @@
                     <mainClass>${main.class}</mainClass>
                     <arguments>
                         <argument>-P</argument>
-                        <argument>8206</argument>
+                        <argument>8207</argument>
                     </arguments>
                 </configuration>
             </plugin>
